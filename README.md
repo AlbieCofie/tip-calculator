@@ -32,3 +32,5 @@ print(f'Tip = GH₵{Tip} \nSales tax = GH₵{Tax} \nGrand Total = GH₵{Total}')
 ```
 
 # The Result
+![The Code](./images/Code.png)
+
